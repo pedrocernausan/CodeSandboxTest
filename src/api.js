@@ -3,7 +3,7 @@
 // solution would be more appropriate.
 const PlayerAPI = {
   players: [
-    { number: 1, name: "Ben Blocker", position: "G" },
+    { number: 1, name: "Ben Blockerer", position: "G" },
     { number: 2, name: "Dave Defender", position: "D" },
     { number: 3, name: "Sam Sweeper", position: "D" },
     { number: 4, name: "Matt Midfielder", position: "M" },
